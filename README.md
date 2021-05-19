@@ -1,3 +1,6 @@
+# About this
+I made this as a sample project using React and Redux with hooks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
